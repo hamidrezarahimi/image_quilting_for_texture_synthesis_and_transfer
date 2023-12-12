@@ -1,1 +1,1 @@
-# image_quilting_for_texture_synthesis_and_transfer
+# Image Quilting for Texture Synthesis and Transfer
